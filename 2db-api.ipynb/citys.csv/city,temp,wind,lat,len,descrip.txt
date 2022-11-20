@@ -1,0 +1,36 @@
+city,temp,wind,lat,len,descrip
+santiago,5.09,0.4,-33.4569,-70.6483,light rain
+buenos aires,10.13,1.54,-34.6132,-58.3772,fog
+roma,13.11,0.89,43.2128,-75.4557,clear sky
+nueva york,23.4,5.36,40.7143,-74.006,overcast clouds
+londres,17.77,1.54,51.5085,-0.1257,overcast clouds
+santiago,5.09,0.4,-33.4569,-70.6483,light rain
+buenos aires,10.13,1.54,-34.6132,-58.3772,fog
+roma,13.11,0.89,43.2128,-75.4557,clear sky
+nueva york,23.4,5.36,40.7143,-74.006,overcast clouds
+londres,17.77,1.54,51.5085,-0.1257,overcast clouds
+santiago,5.09,0.4,-33.4569,-70.6483,light rain
+buenos aires,10.13,1.54,-34.6132,-58.3772,fog
+roma,13.11,0.89,43.2128,-75.4557,clear sky
+nueva york,23.4,5.36,40.7143,-74.006,overcast clouds
+londres,17.77,1.54,51.5085,-0.1257,overcast clouds
+santiago,5.09,0.4,-33.4569,-70.6483,light rain
+buenos aires,10.13,1.54,-34.6132,-58.3772,fog
+roma,13.11,0.89,43.2128,-75.4557,clear sky
+nueva york,23.4,5.36,40.7143,-74.006,overcast clouds
+londres,17.77,1.54,51.5085,-0.1257,overcast clouds
+santiago,5.09,0.4,-33.4569,-70.6483,light rain
+buenos aires,10.13,1.54,-34.6132,-58.3772,fog
+roma,13.11,0.89,43.2128,-75.4557,clear sky
+nueva york,23.4,5.36,40.7143,-74.006,overcast clouds
+londres,17.77,1.54,51.5085,-0.1257,overcast clouds
+santiago,5.09,0.4,-33.4569,-70.6483,light rain
+buenos aires,10.13,1.54,-34.6132,-58.3772,fog
+roma,13.11,0.89,43.2128,-75.4557,clear sky
+nueva york,23.4,5.36,40.7143,-74.006,overcast clouds
+londres,17.77,1.54,51.5085,-0.1257,overcast clouds
+santiago,5.09,0.4,-33.4569,-70.6483,light rain
+buenos aires,10.13,1.54,-34.6132,-58.3772,fog
+roma,13.11,0.89,43.2128,-75.4557,clear sky
+nueva york,23.4,5.36,40.7143,-74.006,overcast clouds
+londres,17.77,1.54,51.5085,-0.1257,overcast clouds
